@@ -13,7 +13,8 @@ Small Group Tutorials
 ======
 These tutorials were delivered to groups of approximately 10 students each. The
 students would submit solutions to problem sheets and get written feedback on
-their work, as well as seeing and discussing solutions in the tutorial.
+their work (both formative and summative), as well as seeing and discussing
+solutions in the tutorial.
 
 Examples Classes
 ======
@@ -42,3 +43,5 @@ MT2505 Abstract Algebra
 ======
 A rigorous introductory course in abstract algebra, covering basic group theory
 with a focus on permutation groups.
+
+I delivered tutorials to 3 groups.
