@@ -1,5 +1,5 @@
 ---
-title: "Tutor"
+title: "Tutoring"
 collection: teaching
 type: "Tutorials"
 permalink: /teaching/tutorials
